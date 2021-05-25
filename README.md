@@ -9,7 +9,7 @@ I used React because it has many benefits like being able to create resuable com
 
 
 ### Location of deployed application
-### Application hosted on: 
+### Application hosted on: http://gowthami.live/weather-app/
 ### JSON data: https://my-json-server.typicode.com/gowthami-sukhavasi/WeatherAPI/weather
 
 
